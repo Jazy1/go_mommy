@@ -1,0 +1,29 @@
+GoMommy
+
+Okay so go mommy. I need to do stuff that will make butt shut the fuck up
+Things that looks large in size but are actually ain't shit
+
+Here's a summary of this project
+I will design a drag and drop website builder. We will drag elements from sidepane, create components, then using these components, create a whole website. Add plugins for dynamicness then. When completed, save it for later access. Also if you like it way too much, publish it to theme marketplace.
+
+
+Todo for butt fuck
+	Login Page (Done)
+	Sign up page (Done)
+	Public Home page (Done)
+	A simple dashboard to access these websites
+	Design a drag and drop builder
+	A bit of marketplace
+	Elements pane
+	Pages pane
+	Component building
+	Saving of the design
+	Publishing it to the theme marketplace
+	Complete the wizard if you can
+
+Portfolio
+Education
+Entertainment
+Food & Drink
+News
+Blog
