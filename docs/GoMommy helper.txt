@@ -7,7 +7,7 @@ Here's a summary of this project
 I will design a drag and drop website builder. We will drag elements from sidepane, create components, then using these components, create a whole website. Add plugins for dynamicness then. When completed, save it for later access. Also if you like it way too much, publish it to theme marketplace.
 
 
-Todo for butt fuck
+Todo for butt to shut the  fuckup
 	Login Page (Done)
 	Sign up page (Done)
 	Public Home page (Done)
@@ -20,6 +20,10 @@ Todo for butt fuck
 	Saving of the design
 	Publishing it to the theme marketplace
 	Complete the wizard if you can
+
+Revision 2 for butt to shut the fuckup
+	Change home design
+	Build your website builder (That's your main module)
 
 Portfolio
 Education
