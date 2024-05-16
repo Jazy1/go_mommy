@@ -22,7 +22,7 @@ Todo for butt to shut the  fuckup
 	Complete the wizard if you can
 
 Revision 2 for butt to shut the fuckup
-	Change home design
+	Change home design (Done)
 	Build your website builder (That's your main module)
 
 Portfolio
