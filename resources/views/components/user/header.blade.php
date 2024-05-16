@@ -9,7 +9,7 @@
         <div class="profile-notification position-relative dropdown-center ms-3 ms-md-5 me-4">
         </div>
         <div class="d-none d-md-block me-3">
-            <a  class="btn-two"><span>Create a Website</span> <i class="fa-thin fa-arrow-up-right"></i></a>
+            <a href="{{ route("demo") }}" target="_blank" class="btn-two"><span>Create a Website</span> <i class="fa-thin fa-arrow-up-right"></i></a>
         </div>
         <div class="user-data position-relative">
             <button class="user-avatar online position-relative rounded-circle dropdown-toggle" type="button" id="profile-dropdown" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">

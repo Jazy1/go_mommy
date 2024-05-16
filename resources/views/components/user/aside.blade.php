@@ -28,7 +28,7 @@
                     <span>My Websites</span>
                 </a></li>
                 <li class="plr"><a 
-                    href="{{ route("builder") }}" 
+                    href="{{ route("demo") }}" 
                     {{-- href="/builder" --}}
                     target="_blank" 
                     class="d-flex w-100 align-items-center">

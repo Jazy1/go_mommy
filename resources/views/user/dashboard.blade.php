@@ -37,7 +37,7 @@
 				</div>
 			@endif
 
-			<div class="bg-white border-20">
+			{{-- <div class="bg-white border-20">
 				<div class="row">
 					<div class="col-lg-3 col-6">
 						<div class="dash-card-one bg-white border-30 position-relative mb-15 skew-none">
@@ -88,7 +88,7 @@
 						<!-- /.dash-card-one -->
 					</div>
 				</div>
-			</div>
+			</div> --}}
 
 			{{-- <div class="row gx-xxl-5 d-flex pt-15 lg-pt-10">
 				<div class="col-xl-7 col-lg-6 d-flex flex-column">

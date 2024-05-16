@@ -21,6 +21,14 @@ Route::get("/", function(){
     return view("public.home");
 })->name("public.home");
 
+Route::get("/demo", function(){
+    return view("demo");
+})->name("demo");
+
+Route::get("/demo2", function(){
+    return view("demo_2");
+})->name("demo2");
+
 
 Route::get('user/dashboard', function(){
     return view("user.dashboard");
