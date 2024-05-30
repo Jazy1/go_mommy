@@ -43,8 +43,9 @@
 
         <!-- ################### Search Modal ####################### -->
         <!-- Modal -->
-        <div class="modal fade" id="searchModal" tabindex="-1" aria-hidden="true">
-            <div class="modal-dialog modal-fullscreen modal-dialog-centered">
+        <div class="modal fade" id="searchModal" tabindex="-1" aria-hidden="true" style="background-color: #f96727;
+		opacity: 0.6;">
+            <div class="modal-dialog modal-fullscreen modal-dialog-centered" style="background: unset">
                 <div class="modal-content d-flex justify-content-center">
                     <form action="" method="GET">
                         <input type="text" name="keywords" placeholder="Buy Portfolio, Pets, News themes">

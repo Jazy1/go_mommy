@@ -322,7 +322,7 @@
               <img class="badge-avatar" src="img/Nigga Headshot 90x90.jpg">
               <div class="badge-body">
                 <div class="badge-name">Jahanzeb Ahmad</div>
-                <div class="badge-role">Team Lead</div>
+                <div class="badge-role">Full Stack Developer</div>
                 <div class="badge-desc"></div>
               </div>
               {{-- <div class="badge-foot">

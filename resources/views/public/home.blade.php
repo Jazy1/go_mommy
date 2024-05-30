@@ -36,14 +36,15 @@
 
 										<div class="col-xl-4 col-lg-4">
 											<div class="input-box-one border-left">
-												<div class="label">I’m looking to...</div>
+												<div class="label">I’m looking for...</div>
 												<select class="nice-select fw-normal">
-													<option value="1">Buy Portfolio Theme</option>
-													<option value="2">Rent Education Theme</option>
-													<option value="3">Sell Entertainment Theme</option>
-													<option value="4">Rent Food & Drink Theme</option>
-													<option value="6">Sell News Theme</option>
-													<option value="7">Sell Blog Theme</option>
+													<option value="1">Portfolio Theme</option>
+													<option value="1">Housing Theme</option>
+													<option value="2">Education Theme</option>
+													<option value="3">Entertainment Theme</option>
+													<option value="4">Food & Drink Theme</option>
+													<option value="6">News Theme</option>
+													<option value="7">Blog Theme</option>
 												</select>
 											</div>
 											<!-- /.input-box-one -->
@@ -67,9 +68,9 @@
 											<div class="input-box-one border-left border-lg-0">
 												<div class="label">Price Range</div>
 												<select class="nice-select fw-normal">
-													<option value="1">$10,000 - $200,000</option>
-													<option value="2">$200,000 - $300,000</option>
-													<option value="2">$300,000 - $400,000</option>
+													<option value="1">RS. 1000 - RS. 2000</option>
+													<option value="2">RS. 3000 - RS. 5000</option>
+													<option value="2">RS. 5000 - RS. 10,000</option>
 												</select>
 											</div>
 											<!-- /.input-box-one -->
@@ -107,35 +108,42 @@
                     <div class="wrapper">
                         <ul class="d-flex flex-wrap justify-content-center justify-content-xxl-between style-none">
                             <li>
-                                <a href="listing_01.html" class="d-flex align-items-center fw-500 tran3s">
+                                <a href="" class="d-flex align-items-center fw-500 tran3s">
                                     <img src="images/lazy.svg" data-src="images/icon/icon_15.svg" alt="" class="lazy-img invert">
                                     <span>Porfolio</span>
                                 </a>
                             </li>
+							<li>
+                                <a href="" class="d-flex align-items-center fw-500 tran3s">
+                                    <img src="images/lazy.svg" data-src="images/icon/icon_19.svg" alt="" class="lazy-img invert">
+                                    <span>Housing</span>
+                                </a>
+                            </li>
                             <li>
-                                <a href="listing_01.html" class="d-flex align-items-center fw-500 tran3s">
+                                <a href="" class="d-flex align-items-center fw-500 tran3s">
                                     <img src="images/lazy.svg" data-src="images/icon/icon_16.svg" alt="" class="lazy-img invert">
                                     <span>Education</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="listing_01.html" class="d-flex align-items-center fw-500 tran3s">
+                                <a href="" class="d-flex align-items-center fw-500 tran3s">
                                     <img src="images/lazy.svg" data-src="images/icon/icon_17.svg" alt="" class="lazy-img invert">
                                     <span>Food & Drink</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="listing_01.html" class="d-flex align-items-center fw-500 tran3s">
+                                <a href="" class="d-flex align-items-center fw-500 tran3s">
                                     <img src="images/lazy.svg" data-src="images/icon/icon_18.svg" alt="" class="lazy-img invert">
                                     <span>News</span>
                                 </a>
                             </li>
                             <li>
-                                <a href="listing_01.html" class="d-flex align-items-center fw-500 tran3s">
+                                <a href="" class="d-flex align-items-center fw-500 tran3s">
                                     <img src="images/lazy.svg" data-src="images/icon/icon_19.svg" alt="" class="lazy-img invert">
                                     <span>Blog</span>
                                 </a>
                             </li>
+                            
                             {{-- <li>
                                 <a href="listing_01.html" class="d-flex align-items-center fw-500 tran3s">
                                     <img src="images/lazy.svg" data-src="images/icon/icon_20.svg" alt="" class="lazy-img invert">
@@ -231,7 +239,7 @@
 
 		<!-- 
 		=============================================
-			Property Listing Three
+			Featured Themes Listing Three
 		============================================== 
 		-->
 		<div class="property-listing-three position-relative z-1 mt-170 xl-mt-140 lg-mt-120">
@@ -334,7 +342,7 @@
 
 		<!--
 		=====================================================
-			Property Listing Four
+			New Themes 
 		=====================================================
 		-->
 		<div class="property-listing-four bg-pink-three position-relative z-1 overflow-hidden pt-120 xl-pt-80 pb-110 xl-pb-60 mt-170 xl-mt-140 lg-mt-120">
